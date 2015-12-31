@@ -1,0 +1,122 @@
+{
+   "contact": {
+      "name": "Kyle Ouellette",
+      "phone": "207-754-6882",
+      "email": "kyle@kyleouellette.com",
+      "address": "Auburn, ME",
+      "profession": "Web Developer"
+   },
+   "education": [
+      {
+         "level": "High School",
+         "years": "2004 - 2008",
+         "name": "Edward Little High School",
+         "degree": "High School Deploma",
+         "location": "Auburn, ME",
+         "description": "High School Deploma"
+      },
+      {
+         "level": "College",
+         "years": "2008 - 2011",
+         "name": "The New England Institute of Art",
+         "degree": "Bachelor's Degree",
+         "location": "Brookline, MA",
+         "description": "Developed a wide skill set covering multiple areas of web design and interactive media. Graduated August 2011 with Bachelor of Science degree."
+      }
+   ],
+   "work": [
+      {
+         "title": "Web Developer",
+         "company": "The Portland Press Herald / MaineToday Media — Portland, ME",
+         "description": "Work with the digital team in creating site features and mobile apps. Created dedicated sites for exeternal contributors, implimented paywall, and created tools for readers and vendors to have their events included both in the digital world as well as in print.",
+         "years": "May, 2014 - Present"
+      },
+      {
+         "title": "Manager of Advertising Technology",
+         "company": "The Boston Globe / Boston.com — Boston, MA",
+         "description": "Lead a small team of developers whose responsibilities vary from development of email templates for marketing to mobile development and landing pages. Research technologies that have a potential to be leveraged by the advertising team at Boston.com. The role also includes guidance, development, and implementation of rich-media and high impact ads.",
+         "years": "December, 2012 - April 2014"
+      },
+      {
+         "title": "Interactive Developer",
+         "company": "The Boston Globe / Boston.com — Boston, MA",
+         "description": "Support the designers in the digital creative services team with development. Responsibilities include ad template creation, rich media homepage takeovers, landing pages for advertisers, mobile landing pages and web apps.",
+         "years": "August, 2011 - December, 2012"
+      },
+      {
+         "title": "Digital Creative Services Intern",
+         "company": "The Boston Globe / Boston.com — Boston, MA",
+         "description": "Work alongside a team of designers and develop iPhone applications, web applications, and widgets for The Boston Globe and Boston.com.",
+         "years": "March, 2011 - August, 2011"
+      }
+   ],
+   "awards": [
+      {
+         "title":"The MICA (Most Innovative Campaign Award) | Boston.com — Boston, MA",
+         "description": "The MICA is designed to recognize the team who developed, sold, and executed the most innovative advertising campaign in 2012.",
+         "date": "January, 2013"
+      },
+      {
+         "title": "Rich Media Campaign — Anheuser-Busch Takeover | Hatch Awards — Boston, MA",
+         "description": "At the 52nd annual Hatch Awards, the Anheuser-Busch home page takeover took gold in the category of Rich Media Campaign and Silver in the category of Rich Media Single Entry.",
+         "date":"October, 2012"
+      },
+      {
+         "title": "Boston Globe Media Innovation Award — The Boston Globe",
+         "description": "An inventive mind, dedication to excellence and tireless effort are rarely found in one person Kyle has exemplified all three on a daily basis, and we are extremely fortunate to have him. — Gene Yoon, Creative Director, Digital Creative Services, Boston Globe Media",
+         "date": "April, 2012"
+      },
+      {
+         "title": "Excellence in Interactive Development — The New England Institute of Art",
+         "description": "This award is given to one student in the Web Design and Interactive Media major who has excelled in the area of development while attending The New England Institute of Art.",
+         "date":"April, 2012"
+      },
+      {
+         "title": "Best Social Hack | Hack day 2011 — Boston, MA",
+         "description": "Teams were given 48 hours to form ideas and teams and then develop their vision.",
+         "date":"February, 2011"
+      },
+      {
+         "title": "Best Interactive Development Project | AiME Awards — Brookline, MA",
+         "description": "A school wide competition aimed at topics within each major. An award given to the student who shows best knowledge of programming language used, best practices, and general coding skills.",
+         "date":"May, 2010"
+      }
+   ],
+   "skills": [
+      {
+         "title": "Languages",
+         "items": [
+            "JavaScript",
+            "PHP",
+            "Python",
+            "Bash",
+            "SQL",
+            "CSS",
+            "HTML"
+         ]
+      },
+      {
+         "title": "Frameworks/Libraries",
+         "items": [
+            "Wordpress",
+            "Compass / SASS / Less",
+            "jQuery / jQuery Mobile",
+            "Django [In progress]",
+            "Handlebars",
+            "Backbone"
+         ]
+      },
+      {
+         "title": "Tools",
+         "items": [
+            "Sublime Text 2",
+            "Terminal",
+            "Google Chrome",
+            "jslint",
+            "Google closure-compiler",
+            "Git and Github",
+            "Gulp"
+         ]
+      }
+   ]
+}
